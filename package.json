@@ -1,0 +1,23 @@
+{
+  "name": "rapid",
+  "version": "1.0.0",
+  "description": "A reimplementation of node express using the native http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatDean/rapid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnatDean/rapid/issues"
+  },
+  "homepage": "https://github.com/AnatDean/rapid#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
